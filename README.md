@@ -54,7 +54,7 @@ To run the Ecommerce Web Application locally, follow these steps:
    npm run serve ( For Strapi Back-End )
 ```
 
-1. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Usage
 
