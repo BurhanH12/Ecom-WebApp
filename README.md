@@ -51,7 +51,7 @@ To run the Ecommerce Web Application locally, follow these steps:
 4. Run the development server.
 ```bash
    npm run dev ( For the Front-End )
-   npm run serve ( For Strapi Back-End )
+   npm run develop ( For Strapi Back-End )
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
